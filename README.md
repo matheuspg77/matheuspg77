@@ -9,9 +9,6 @@ Me chamo Matheus santos, tenho 21 anos. Concluí o ensino médio  ,fiz  com o cu
 ### 🤖 Linguagens e Tecnologias
 
 
-## Olá! Eu sou o Matheus santos🖐️
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
