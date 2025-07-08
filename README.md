@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus santos, tenho 21 anos. Concluí o ensino médio  ,fiz  com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no senai. 
+Me chamo Matheus santos, tenho 21 anos. Concluí o ensino médio  ,fiz  com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
